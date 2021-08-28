@@ -1,6 +1,6 @@
 # Tiarnaċ is ainm dom
 ## 🔭 Currently
-### CTO @ [EOFIS](https://www.linkedin.com/company/eofis-ie)
+### 🧠 CTO @ [EOFIS](https://www.linkedin.com/company/eofis-ie) 🧠
 - An NLP-powered spaced repetition and visual grouping app. Uses Flask, VueJS, MongoDB, and AWS.
 - Winner of 2021 NovaUCD Student Enterprise competition. [See Article](https://www.linkedin.com/posts/novaucd_early-stage-venture-developing-a-software-activity-6813784623991070720-QYZy)
 <!--
