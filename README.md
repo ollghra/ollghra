@@ -3,10 +3,12 @@
 ### CTO @ [EOFIS](https://www.linkedin.com/company/eofis-ie)
 - An NLP-powered spaced repetition and visual grouping app. Uses Flask, VueJS, MongoDB, and AWS.
 - Winner of 2021 NovaUCD Student Enterprise competition. [See Article](https://www.linkedin.com/posts/novaucd_early-stage-venture-developing-a-software-activity-6813784623991070720-QYZy)
-## 🌱 Currently learning
+<!--
+## 🌱 Learning
 - [VueJS](https://github.com/vuejs/vue)
 - [Flask](https://github.com/pallets/flask)
-## 🔨 Hiring
+-->
+## 🔨 Hiring me
 - I'm open to contract or part-time work using Python, AWS, Javascript, or any combination of skills in my [CV](tiarnach_o_riada_cv.pdf).
 - Look at my [CV](tiarnach_o_riada_cv.pdf) to see there's something I can help you with
 ## 📫 How to reach me
