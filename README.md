@@ -1,5 +1,14 @@
-### Hi there 👋
-
+# Tiarnaċ is ainm dom
+## 🔭 Currently working on
+- [EOFIS](https://www.linkedin.com/company/eofis-ie) An NLP-powered spaced repetition and visual grouping app. Uses Flask, VueJS, MongoDB, and AWS.
+## 🌱 Currently learning
+- [VueJS](https://github.com/vuejs/vue)
+- [Flask](https://github.com/pallets/flask)
+## 🔨 Hiring
+- I'm open to contract or part-time work using Python, AWS, Javascript, or any combination of skills in my CV.
+- Look at my [CV](tiarnach_o_riada_cv.pdf) to see there's something I can help you with
+## 📫 How to reach me
+- Email: [tiarnach \<at\> eofis.ie](mailto:tiarnach@eofis.ie) or [tiarnach.oriada \<at\> ucdconnect.ie](mailto:tiarnach.oriada@ucdconnect.ie)
 <!--
 **ollghra/ollghra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
