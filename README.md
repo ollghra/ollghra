@@ -18,6 +18,7 @@
 ## 📫 How to reach me
 - Email: [tiarnach \<at\> eofis.ie](mailto:tiarnach@eofis.ie) 
 ## 👨‍🎨️ What I'm particularly proud of
+- [pygmid](https://github.com/dreoilin/pygmid) An analogue design tool, a Python version of the gm/ID starter kit by Prof. Boris Murmann of Stanford University. My own contribution is the GUI (pycharm plugin), speed and memory usage improvements, and adding unit testing. Now used in an industry training course offered by Tyndall [course link](https://www.midasireland.ie/skillnet/training/gm-id-design-with-python/) and by industrial analogue designers.
 - [SPICEBAG](https://github.com/madrasalach/SPICEBAG) A SPICE-like circuit simulation program written in Python and FORTRAN with a pretty decent GUI. We did this as a university project and it involved some serious (for us at the time) numerical algorithms and software engineering.
 - [Domotique](https://github.com/MaxencePPierre/Domotique) A home-automation system simulator in C++ and Gnuplot we wrote in EPFL. It has what I believe to be an excellent class model and a perfect use of templates.
 - [Chuckles](https://github.com/ollghra/chuckles) An absolute mess of a thing in C and x86 assembler. The merest baby of an operating system, but it's been a lot of fun structuring and writing it and exploring all the freedom a kernel developer can have. 
